@@ -31,8 +31,8 @@ This is a RESTful API built with Express.js for managing movies. It provides end
 
 ## Defining Routes:
 
-GET /api/v1/movies/all: Fetches all movies.
-GET /api/v1/movies/:id: Fetches a specific movie by its ID.
-POST /api/v1/movies/add: Adds a new movie.
+- GET /api/v1/movies/all: Fetches all movies.
+- GET /api/v1/movies/:id: Fetches a specific movie by its ID.
+- POST /api/v1/movies/add: Adds a new movie.
 
 Feel free to customize this template to fit the specifics of your project. Add any additional sections or details that you think would be helpful for users or contributors.
